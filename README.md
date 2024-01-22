@@ -3,7 +3,7 @@
 
 ## 🔥Overview
 
-🚀 **iValidate** is a simple and effective email validation tool designed for businesses. This web application allows users to validate email addresses and obtain detailed information about their validity.
+🚀 **iEmailValidate** is a simple and effective email validation tool designed for businesses. This web application allows users to validate email addresses and obtain detailed information about their validity.
 
 If you like the project, show your appreciation by giving it a ❤️!
 ## 📝Features

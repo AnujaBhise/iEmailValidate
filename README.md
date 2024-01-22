@@ -1,11 +1,28 @@
-# 📧 iEmailValidate - Email Validator for your Business
+# 📧 iValidate - Email Validator for your Business
+
+
+https://github.com/AnujaBhise/iEmailValidate/assets/96904529/5736009c-e9b1-4fec-83fb-a3527621576c
+
 
 
 ## 🔥Overview
 
-🚀 **iEmailValidate** is a simple and effective email validation tool designed for businesses. This web application allows users to validate email addresses and obtain detailed information about their validity.
+🚀 **iValidate** is a simple and effective email validation tool designed for businesses. This web application allows users to validate email addresses and obtain detailed information about their validity.
 
 If you like the project, show your appreciation by giving it a ❤️!
+## 📷Demo
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; justify-content: center; align-items: center; height: 100vh">
+<img width="270" height="200" alt="Screenshot 2024-01-22 135349" src="https://github.com/AnujaBhise/iEmailValidate/assets/96904529/fde5b51c-b8e7-4c4e-9ae1-746978e5180c">
+<img width="270" height="200" alt="Screenshot 2024-01-22 135349" src="https://github.com/AnujaBhise/iEmailValidate/assets/96904529/e5f05c80-3ad9-4265-837d-bc4550fa602c">
+<img width="270" height="200" alt="Screenshot 2024-01-20 172239" src="https://github.com/AnujaBhise/iEmailValidate/assets/96904529/f2a7699d-5832-4bdc-ab43-8bccb8c6cdaa">
+<img width="270" height="200" alt="Screenshot 2024-01-22 135426" src="https://github.com/AnujaBhise/iEmailValidate/assets/96904529/c79e2fe9-2c37-4b39-9492-295a7ba8ef69">
+<img width="270" height="200" alt="Screenshot 2024-01-22 135417" src="https://github.com/AnujaBhise/iEmailValidate/assets/96904529/cfbfe875-9884-41f3-8818-3459b47b36d2">
+<img width="270" height="200" alt="Screenshot 2024-01-22 135339" src="https://github.com/AnujaBhise/iEmailValidate/assets/96904529/c94be697-9ea3-47a5-86c2-503f0ee5d37f">
+
+
+## 📱Responsiveness
+  - Designed to be responsive across various devices and screen sizes for an optimal user experience.
+
 ## 📝Features
 
 - **User-Friendly Interface**: A clean and intuitive interface for a seamless user experience.
@@ -15,7 +32,7 @@ If you like the project, show your appreciation by giving it a ❤️!
 
 ## ✅Usage
 
-1. Navigate to the [iValidate Website](#) (replace "#" with the actual URL).
+1. Navigate to the [iEmailValidate Website](https://anujabhise.github.io/iEmailValidate/).
 2. Enter the email address you want to validate.
 3. Click on the "Submit" button to initiate the validation process.
 4. Results will be displayed below the form, providing information about the entered email.

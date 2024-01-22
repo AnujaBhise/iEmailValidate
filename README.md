@@ -28,7 +28,7 @@ If you like the project, show your appreciation by giving it a ❤️!
 
 ## Getting Started
 
-1. Clone the repository: `git clone [repository_url]`.
+1. Clone the repository: `https://github.com/AnujaBhise/iEmailValidate.git`.
 2. Open `index.html` in a web browser.
 
 ## Customization

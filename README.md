@@ -69,4 +69,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ---
 
-**Copyright | iEmailValidate.com | All Rights Reserved** ©️
+
